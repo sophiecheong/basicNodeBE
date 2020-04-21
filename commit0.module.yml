@@ -4,4 +4,4 @@ template:
   delimiters:
     - '<%'
     - '%>'
-  output: web-app
+  output: backend
