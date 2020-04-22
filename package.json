@@ -1,6 +1,6 @@
 {
   "name": "basicNodeBE",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "Node.js on Docker",
   "author": "Sophie C.",
   "main": "server.js",
